@@ -1,0 +1,12 @@
+{
+    "name": "etrobo-docker",
+    "dockerComposeFile": "docker-compose.yml",
+    "extensions": [
+        "formulahendry.terminal",
+        "ms-vscode.cpptools",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "service": "etrobo-docker",
+    "workspaceFolder": "/ev3rt/hrp2/sdk/workspace/product",
+    "shutdownAction": "stopCompose"
+}
