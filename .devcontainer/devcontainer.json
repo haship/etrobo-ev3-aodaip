@@ -2,8 +2,12 @@
     "name": "etrobo-docker",
     "dockerComposeFile": "docker-compose.yml",
     "extensions": [
+        "coenraads.bracket-pair-colorizer",
         "formulahendry.terminal",
         "ms-vscode.cpptools",
+        "gerane.theme-dracula",
+        "pkief.material-icon-theme",
+        "visualstudioexptteam.vscodeintellicode",
         "streetsidesoftware.code-spell-checker"
     ],
     "service": "etrobo-docker",
